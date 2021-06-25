@@ -1,1 +1,1 @@
-To follow the workshop, download the notebook and run, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/RaviSriTejaKuriseti/Qiskit-Codes/blob/main/QUANTUM-TELEPORTATION/quantumteleport.ipynb)
+To follow the workshop, download the notebook and run, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaviSriTejaKuriseti/Qiskit-Codes/blob/main/QUANTUM-TELEPORTATION/quantumteleport.ipynb)
